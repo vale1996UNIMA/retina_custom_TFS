@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+/dataset/
+/dist/
+/eggs/
+/*-eggs/
+.eggs/
+/sdist/
+/wheels/
+/*.egg-info/
+.installed.cfg
+*.egg
+/venv/
+/temp/
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+resnet50_coco_best_v2.1.0.h5
+/snapshots/
+/TFS_test_model_2/
+CONTRIBUTORS.md
+LICENSE
